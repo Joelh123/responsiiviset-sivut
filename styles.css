@@ -58,8 +58,8 @@ ul {
     padding-right: 5%;
 }
 
-hr {
-    width: 100%;
+hr.viiva {
+    border: 1px solid blue;
 }
 
 .listan_asettelu {
