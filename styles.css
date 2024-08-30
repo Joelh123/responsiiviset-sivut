@@ -58,6 +58,10 @@ ul {
     padding-right: 5%;
 }
 
+hr {
+    width: 100%;
+}
+
 .listan_asettelu {
     padding-left: 7%;
 }
